@@ -42,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "g-pages": "^0.1.1"
+    "gh-pages": "^3.2.3"
   }
 }
