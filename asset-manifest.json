@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fce542aa.css",
+    "main.js": "/static/js/main.8684ab4f.js",
+    "static/js/787.d9312eb8.chunk.js": "/static/js/787.d9312eb8.chunk.js",
+    "static/media/serhat-beyazkaya-HrJSHoY9NG4-unsplash.jpg": "/static/media/serhat-beyazkaya-HrJSHoY9NG4-unsplash.f32a449a521d3e96b7ef.jpg",
+    "static/media/day_snow_thunder.svg": "/static/media/day_snow_thunder.a4f4d8c10be44d75181f.svg",
+    "static/media/day_snow.svg": "/static/media/day_snow.89ca53483f5f29f7ae56.svg",
+    "static/media/day_sleet.svg": "/static/media/day_sleet.0a6ad371e4df63239dac.svg",
+    "static/media/day_rain_thunder.svg": "/static/media/day_rain_thunder.3e661e052bd71c506d83.svg",
+    "static/media/day_rain.svg": "/static/media/day_rain.d485103687e78065a25b.svg",
+    "static/media/day_partial_cloud.svg": "/static/media/day_partial_cloud.0a5976431503e19ad1fc.svg",
+    "static/media/day_clear.svg": "/static/media/day_clear.a2fab9b98b5a306b601e.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/day_clouds.svg": "/static/media/day_clouds.1f52b16e19444f3305be.svg",
+    "index.html": "/index.html",
+    "static/media/icon-arrow-next.svg": "/static/media/icon-arrow-next.9bf63b6d90bc2041f6d6cd123b5cf5ca.svg",
+    "static/media/icon-arrow-preview.svg": "/static/media/icon-arrow-preview.87c4ab75613c34b43c2c131467c8f90d.svg",
+    "main.fce542aa.css.map": "/static/css/main.fce542aa.css.map",
+    "main.8684ab4f.js.map": "/static/js/main.8684ab4f.js.map",
+    "787.d9312eb8.chunk.js.map": "/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce542aa.css",
+    "static/js/main.8684ab4f.js"
+  ]
+}
