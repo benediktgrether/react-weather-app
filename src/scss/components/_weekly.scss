@@ -1,0 +1,29 @@
+.c-weekly__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 4rem 1rem;
+
+    .c-weekly__content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .c-weekly__headline {
+        font-weight: 700;
+    }
+
+    .c-weekly__icon {
+        img {
+            margin-top: 1rem;
+            width: 1rem;
+            height: 1rem;
+        }
+    }
+
+    .c-weekly__temperature {
+        margin-top: .5rem;
+        color: #8b8b8b;
+    }
+}

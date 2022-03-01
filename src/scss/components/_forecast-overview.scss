@@ -1,0 +1,27 @@
+.c-forecast-overview {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .4);
+    backdrop-filter: blur(10px);
+    z-index: 2;
+
+    @media screen and (min-width: 768px) {
+        width: 40%;
+    }
+
+    .c-forecast-overview__title {
+        margin: 4rem 2rem 2rem;
+
+        h2 {
+            font-size: 1.5rem;
+            font-weight: 700;
+
+        }
+
+        p {
+            margin-top: .75rem;
+            color: darken(#ffffff, 20%);
+        }
+    }
+}

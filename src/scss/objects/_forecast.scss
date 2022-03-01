@@ -1,0 +1,33 @@
+.o-forecast {
+    position: relative;
+    display: flex;
+    background: url(../../assets/image/serhat-beyazkaya-HrJSHoY9NG4-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    
+
+    &:after {
+        content: "";
+        background-color: black;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        opacity: .1;
+        z-index: 1;
+    }
+
+    .c-forecast__left-container {
+        display: none;
+
+        @media screen and (min-width: 768px) {
+            position: relative;
+            width: 60%;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            margin-left: 5rem;
+            z-index: 2;
+        }
+    }
+}

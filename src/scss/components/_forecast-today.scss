@@ -1,0 +1,31 @@
+.c-forecast-today {
+    position: absolute;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 6rem;
+    bottom: 40px;
+
+    .c-forecast-today__icon {
+        img {
+            width: 2.75rem;
+            height: 2.75rem;
+            margin-right: .5rem;
+        }
+    }
+
+    h1 {
+        font-size: 6.5rem;
+        font-weight: 700;
+    }
+
+    h2 {
+        margin-top: 1.5rem;
+        font-size: 4.5rem;
+        font-weight: 700;
+    }
+
+    .c-forecast-today__country {
+        margin-top: 1rem;
+        color: darken(#ffffff, 20%);
+    }
+  }

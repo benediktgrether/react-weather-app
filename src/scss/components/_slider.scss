@@ -1,0 +1,24 @@
+.c-slider__container {
+    position: absolute;
+    bottom: 50px;
+}
+
+.c-slider-pagination__container{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: .75rem;
+
+    .c-slider-pagination__list {
+        display: block;
+        width: 20px;
+        height: 2px;
+        margin-right: .25rem;
+        background-color: #8b8b8b;
+    }
+
+    .c-slider-pagination__list-active {
+        width: 35px;
+        background-color: #ffffff;
+    }
+}

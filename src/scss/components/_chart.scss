@@ -1,0 +1,18 @@
+.c-chart__container {
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid #8b8b8b;
+}
+
+.c-chart__title {
+    margin: 4rem 2rem 2rem;
+
+    h3 {
+        font-size: 3rem;
+        font-weight: 700;
+    }
+
+    p {
+        margin-top: .5rem;
+        color: darken(#ffffff, 20%);
+    }
+}

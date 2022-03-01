@@ -1,0 +1,16 @@
+// css reset
+@import 'settings/reset';
+
+@import 'settings/fonts';
+
+@import 'settings/body';;
+@import 'objects/forecast';
+@import 'components/header';
+@import 'components/forecast-today';
+@import 'components/forecast-overview';
+@import 'components/forecast-overview-navigation';
+@import 'components/chart';
+@import 'components/weekly';
+@import 'components/button';
+@import 'components/burger';
+@import 'components/slider';
